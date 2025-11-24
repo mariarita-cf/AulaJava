@@ -1,0 +1,5 @@
+{
+    "editor.experimental.asyncTokenizationVerification": false,
+    "terminal.integrated.tabs.defaultColor": "terminal.ansiGreen",
+    "terminal.integrated.defaultProfile.windows": "Windows PowerShell"
+}
