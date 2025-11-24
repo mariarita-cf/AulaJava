@@ -1,5 +1,5 @@
 {
-    "editor.experimental.asyncTokenizationVerification": false,
-    "terminal.integrated.tabs.defaultColor": "terminal.ansiGreen",
-    "terminal.integrated.defaultProfile.windows": "Windows PowerShell"
+  "editor.tabSize": 4,
+  "files.autoSave": "afterDelay"
 }
+
